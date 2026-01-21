@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Unchained Vibes - Voice Input for Claude",
+  "name": "Unchained Vibes - for Claude",
   "version": "1.0.0",
   "description": "Stop typing, start talking. Voice input for Claude AI — speak naturally, say 'send it' or press Enter to send.",
   "permissions": [
